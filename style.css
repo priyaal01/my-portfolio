@@ -1622,7 +1622,7 @@ a{
   color: var(--teal);
   font-size: 1.25rem;
   transition: color 0.2s, transform 0.2s;
-  opacity: 0.85;
+  opacity: 1;
 }
 .footer-icons a:hover {
   color: var(--cyan-light);
@@ -1639,43 +1639,3 @@ a{
     margin-top: 0.5rem;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
